@@ -1,3 +1,54 @@
-.h1_dif{    
-    color: aqua;
+body{   
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.h1_dif{
+    color: white;
+    text-align: center;
+}
+.div_2{
+    width: 100%;
+    background-color: gray;
+    padding: 0px;
+    margin-top: 0px;
+    
+}
+.sura{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 80vh; 
+}
+.name{
+    color: white;
+    text-align: center;
+}
+.div3{
+    width: 100%;
+    background-color: beige;
+    padding: 0px;
+    margin-top: 0px
+}
+.cursiva{
+    color: rgb(19, 16, 233);
+}
+.funtion{
+    color: green;
+}
+.div4{
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+    padding: 0px;
+    margin-top: 0px
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body.servicios{
+    background-color: aquamarine;
 }
